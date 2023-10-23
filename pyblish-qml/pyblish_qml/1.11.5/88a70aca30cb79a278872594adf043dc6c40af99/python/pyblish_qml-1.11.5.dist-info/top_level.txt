@@ -1,2 +1,0 @@
-pyblish_qml
-tests
